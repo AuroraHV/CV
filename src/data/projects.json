@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Sistema de Matriculación",
+    "description": "Aplicación web completa para la gestión de matriculaciones. Incluye base de datos, formularios dinámicos y lógica de gestión académica.",
+    "image": "/SM.jpg",
+    "link": "https://github.com/AuroraHV/SistemaMatriculacion_v6",
+    "tags": ["Java", "MySQL", "Web App"]
+  },
+  {
+    "id": 2,
+    "title": "Web Club de Tiro Costa Almería",
+    "description": "Sitio web corporativo para club deportivo con información, diseño responsive y estructura moderna.",
+    "image": "/ClubTiro.jpg",
+    "link": "https://github.com/AuroraHV/Cdt-Costa-Almeria",
+    "tags": ["HTML", "CSS", "Web"]
+  },
+  {
+    "id": 3,
+    "title": "Inner Voice - Videojuego 3D",
+    "description": "Proyecto artístico de videojuego 3D. Concept Art, Modelado, texturizado y entorno completo realizado con herramientas de arte digital.",
+    "image": "/IV.jpg",
+    "link": "https://www.artstation.com/nordlysh/albums/8130392",
+    "tags": ["Photoshop", "Zbrush", "Game Art"]
+  }
+]

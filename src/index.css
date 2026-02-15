@@ -1,0 +1,60 @@
+html, body, #root{
+  height:100%;
+}
+
+body{
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HEADER */
+header{
+  background:#1f2937;
+  color:white;
+  padding:20px;
+  text-align:center;
+}
+
+/* NAV */
+nav{
+  margin-top:15px;
+  display:flex;
+  justify-content:center;
+  gap:30px; 
+}
+
+/* Links del menú */
+nav a{
+  color:white;
+  text-decoration:none;
+  font-weight:bold;
+  font-size:18px;
+  transition:0.2s;
+}
+
+/* Hover */
+nav a:hover{
+  color:#60a5fa;
+}
+
+/* FOOTER */
+footer{
+  background:#1f2937;
+  color:white;
+  text-align:center;
+  padding:15px;
+  margin-top:40px;
+}
+
+/* Botón ArtStation */
+.btn-artstation {
+  background-color: #13AFF0;
+  border-color: #13AFF0;
+  color: white;
+}
+
+.btn-artstation:hover {
+  background-color: #0f95cc; 
+  border-color: #0f95cc;
+  color: white;
+}
